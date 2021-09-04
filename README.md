@@ -50,12 +50,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=dth99&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dth99&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=dth99&show_icons=true&theme=dark&locale=en" alt="dth99" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dth99&show_icons=true&theme=dark&locale=en&layout=compact" alt="dth99" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="dth99" /></p>
   </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dth99&label=Profile%20Views&color=6805D3&style=flat" alt="jigar-sable" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dth99&label=Profile%20Views&color=6805D3&style=flat" alt="dth99" /> </p>
