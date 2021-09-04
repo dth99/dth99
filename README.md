@@ -56,6 +56,6 @@
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="dth99" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dth99&theme=highcontrast&hide_border=true&fire=DD2727&dates=DD2727&stroke=DD2727&currStreakNum=DD2727&ring=DD2727" alt="dth99" /></p>
   </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dth99&label=Profile%20Views&color=6805D3&style=flat" alt="dth99" /> </p>
