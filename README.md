@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Deepak's+Github+Profile..)](https://git.io/typing-svg)
 
 
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dth99/" target="_blank"> Deepak Kumar </a></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,<br>  I'm <a href="https://www.linkedin.com/in/dth99/" target="_blank"> Deepak Kumar </a></h1>
 <h3 align="center">A Passionate Web And App Developer</h3>
 
 - 🌱 I’m currently learning **React, MongoDB, Firebase**
