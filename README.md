@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, MongoDB, and Firebase**
 
-- 💬 Ask me about **Java, DBMS, MySQL, and Web Development**
+- 💬 Ask me about **DSA, C++, Python,  MySQL, and Web Development**
 
 - 👨‍💻 Check out my personal portfolio: **<a href="https://www.linkedin.com/in/dth99/" target="_blank">Portfolio</a>**
 
