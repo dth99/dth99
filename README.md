@@ -29,4 +29,4 @@
 
 <!--<div align="left">  </div>-->
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=dth99&theme=highcontrast&hide_border=true&fire=DD2727&dates=DD2727&stroke=DD2727&currStreakNum=DD2727&ring=DD2727" alt="dth99"/>
-<img align='right' src="https://github.com/dth99/dth99/blob/main/programmer-cycle.gif"height="185" width="470"/>
+<img align='right' src="https://github.com/dth99/dth99/blob/main/programmer-cycle.gif"height="185" width="270"/>
