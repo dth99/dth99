@@ -1,12 +1,10 @@
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Deepak's+GitHub+Profile!)](https://git.io/typing-svg)-->
 
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dth99/" target="_blank"> Deepak Kumar </a> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi,+I'm+Deepak+Kumar!)](https://git.io/typing-svg)
+<!-- <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dth99/" target="_blank"> Deepak Kumar </a> </h1>Welcome+To+Deepak's+GitHub+Profile-->
 <h3 align="center">A Passionate Developer & coder</h3>
 - 🌱 I'm currently <b>pursuing B.E. CSE</b> at Changigarh University<br>
 - 🌱 I’m currently learning <b>Machine Learning, Java, React and Coding</b><br>
-- 👨‍💻 Check out my personal portfolio: **<a href="https://www.linkedin.com/in/dth99/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio: <a href="https://www.linkedin.com/in/dth99/" target="_blank">Portfolio</a>
 
 
 <h3 align="left">Connect with me</h3>
