@@ -1,7 +1,7 @@
-
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi,+I'm+Deepak+Kumar!)](https://git.io/typing-svg)
-<!-- <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dth99/" target="_blank"> Deepak Kumar </a> </h1>Welcome+To+Deepak's+GitHub+Profile-->
-<h3 align="center">A Passionate Developer & coder</h3>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi,+I'm+Deepak+Kumar!)](https://git.io/typing-svg)
+<img align='right' src="https://github.com/dth99/dth99/blob/main/bug-programmer.gif" width="230" height="400" />
+<!-- <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dth99/" target="_blank"> Deepak Kumar </a> </h1>Welcome+To+Deepak's+GitHub+Profile" -->
+<h3 align="left">A Passionate Developer & coder</h3>
 - 🌱 I'm currently <b>pursuing B.E. CSE</b> at Changigarh University<br>
 - 🌱 I’m currently learning <b>Machine Learning, Java, React and Coding</b><br>
 - 👨‍💻 Check out my personal portfolio: <a href="https://www.linkedin.com/in/dth99/" target="_blank">Portfolio</a>
@@ -27,10 +27,6 @@
 </table>
 
 
-<div align="center">
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=dth99&theme=highcontrast&hide_border=true&fire=DD2727&dates=DD2727&stroke=DD2727&currStreakNum=DD2727&ring=DD2727" alt="dth99" /></p>
-  </div>
-
-
-
-
+<!--<div align="left">  </div>-->
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=dth99&theme=highcontrast&hide_border=true&fire=DD2727&dates=DD2727&stroke=DD2727&currStreakNum=DD2727&ring=DD2727" alt="dth99"/>
+<img align='right' src="https://github.com/dth99/dth99/blob/main/programmer-cycle.gif"height="185" width="470"/>
