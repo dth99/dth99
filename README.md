@@ -22,11 +22,9 @@
 <table>
   <tr>
     <td><a href="https://github.com/dth99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dth99&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="dth99's github stats" /></a> </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dth99&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="dth99" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dth99&langs_count=10&hide=html,css,php&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="dth99" /></td>
   </tr>
 </table>
 
-
-<!--<div align="left">  </div>-->
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=dth99&theme=highcontrast&hide_border=true&fire=DD2727&dates=DD2727&stroke=DD2727&currStreakNum=DD2727&ring=DD2727" alt="dth99"/>
 <img align='right' src="https://github.com/dth99/dth99/blob/main/programmer-cycle.gif"height="185" width="305"/>
