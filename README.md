@@ -22,7 +22,8 @@
 <table>
   <tr>
     <td><a href="https://github.com/dth99/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dth99&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="dth99's github stats" /></a> </td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dth99&langs_count=10&hide=html,css,php&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="dth99" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dth99&langs_count=15&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="dth99" /></td>
+    <!--&hide=html,css,php-->
   </tr>
 </table>
 
