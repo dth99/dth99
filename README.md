@@ -1,22 +1,52 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi,+I'm+Deepak+Kumar!)](https://git.io/typing-svg)
-<img align='right' src="https://github.com/dth99/dth99/blob/main/bug-programmer.gif" width="230" height="400" />
-<!-- <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/dth99/" target="_blank"> Deepak Kumar </a> </h1>Welcome+To+Deepak's+GitHub+Profile" -->
-<h3 align="left">A Passionate Developer & coder</h3>
-- 🌱 I'm currently <b>pursuing B.E. CSE</b> at Changigarh University<br>
-- 🌱 I’m currently learning <b>Machine Learning, Java, React and Coding</b><br>
-- 👨‍💻 Check out my personal portfolio: <a href="https://www.linkedin.com/in/dth99/" target="_blank">Portfolio</a>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+there,+I'm+Deepak+Kumar!)](https://git.io/typing-svg)
+🚀 **DevOps | SRE | Cloud Infra | Automation Enthusiast**  
+📍 Based in India | 🌐 Working with Linux, Azure, Docker, Terraform & CI/CD  
+🎯 Passionate about building reliable systems and simplifying ops through automation
 
+---
 
-<h3 align="left">Connect with me</h3>
+### 👨‍💻 About Me
+
+I'm a DevOps/Site Reliability Engineer with hands-on experience in building, automating, and managing scalable cloud-native infrastructures. I’ve worked on everything from hardening Linux systems to provisioning end-to-end environments and deploying robust CI/CD pipelines. Whether it's scripting with Bash, managing IaC with Terraform, or setting up monitoring with Prometheus-Grafana—I love solving real-world infrastructure problems.
+
+---
+
+### 🔧 Tech Stack I Work With
+
+- ☁️ **Cloud**: Azure, AWS, GCP (basic), OpenStack  
+- 📦 **Containers**: Docker, Azure Kubernetes Service (AKS), ACR  
+- 🔁 **CI/CD**: Azure DevOps, GitHub Actions  
+- 📜 **IaC & Automation**: Terraform, Ansible, Bash  
+- 📊 **Monitoring**: Prometheus, Grafana  
+- 🐧 **OS**: Linux, Ubuntu, RHEL  
+- 💾 **Database**: MongoDB, MySQL  
+- 🔒 **Security**: OS patching, hardening, Key Vault, truststores  
+
+---
+
+### 📈 What I'm Currently Up To
+
+- 🔧 Building a Open-source project
+- 💡 Learning more about **Kubernetes**, **GitOps**, and **SRE practices**
+- 🛠️ Automating my infrastructure setup with **Ansible + Terraform**
+- 📚 Sharing my journey & knowledge on [LinkedIn](https://linkedin.com/in/deepak99kumar)
+
+---
+> "Automate everything, observe relentlessly, and never stop learning."
+
+### 📫 Let's Connect
+
 <div align="left">
-  <a href="https://www.linkedin.com/in/dth99/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/deepakkumar2o/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:deep99.official@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/dth99"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
+
+<!--
 <h3 align="left">Languages</h3>
 <p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-  
+-->
 
 <h3 align="left">GitHub Stats</h3>
 <table>
