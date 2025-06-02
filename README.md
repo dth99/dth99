@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+there,+I'm+Deepak+Kumar!)](https://git.io/typing-svg)
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Hi+there,+I'm+Deepak+Kumar!)](https://git.io/typing-svg)<br>
 🚀 **DevOps | SRE | Cloud Infra | Automation Enthusiast**  
 📍 Based in India | 🌐 Working with Linux, Azure, Docker, Terraform & CI/CD  
 🎯 Passionate about building reliable systems and simplifying ops through automation
